@@ -1,4 +1,4 @@
-#lighting_test
+#fog_test
  
  This project implements a fog layer test using MelonJs. Check the FogEntity.
  
